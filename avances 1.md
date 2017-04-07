@@ -1,7 +1,7 @@
 # Proyecto Final 
 
 
-#### Avances 1
+#### Avance 1
 
 
 #### Análisis de datos propios comparando los resultados de varios programas disponibles
