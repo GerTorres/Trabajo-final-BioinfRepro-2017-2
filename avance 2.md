@@ -35,7 +35,7 @@ Sin embargo tambien puedo hacerlo en Muscle con su version en linea de comando, 
 
 -Chequé el repositorio de un dude que ofrecía una paqueteria de R para análisis filogenéticos (phytools) espero me ayude a correr algunos analisis en R, ya que en los comentarios del Avance 1, se me suguirió incorporar los analisis a linea de comando o en R. 
 
-([](http://blog.phytools.org/))
+[Link](http://blog.phytools.org/)
 	
 pero aun me falta checar bien que analisis ofrece... 
 
