@@ -1,6 +1,6 @@
 # Avance 2
 
-####Datos crudos 
+#### Datos crudos 
 
 * Referente a los datos crudos, estos provienen de un secuenciador Abi prism y el formato de salida es .Ab1 intenté correrlo en FastQC y no admite dicho formato. Aun no se si hay manera de convertirlos. De la forma que encontré que podia hacerse el pre-procesamiento  es con Geneious sin embargo no cuenta con una versión en linea de comando.  
 
@@ -25,6 +25,12 @@ En la gran mayoria de los articulos hacian los alineamientos con ClustalX
 busque y este sofware pude correrse en la  linea de comandos:
 
 ![](./clustalX_CommandLine) 
+
+Sin ambargo tambien puedo hacerlo en Muscle con su version en linea de comando, utilizando un archivo con secuencias fasta (no mas de 50 y con menos de 500 pb) que se tenga la extención .fa:
+
+´´´
+ 	$ muscle in ejemplo.fa -out seqs.afa
+´´´
 
 
 -Chequé el repositorio de un dude que ofrecía una paqueteria de R para análisis filogenéticos (phytools) espero me ayude a correr algunos analisis en R, ya que en los comentarios del Avance 1, se me suguirió incorporar los analisis a linea de comando o en R. 
