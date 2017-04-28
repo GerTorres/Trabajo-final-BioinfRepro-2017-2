@@ -11,10 +11,10 @@
 	
 	: De este descubrí que el anlineamiento se puede hacer con MAFFT. buscando en la pagina del sofware vi que  tiene un versión en linea de comando corriendo el programa con:
 
-´´´
+
 
 	$ /path/mafft-linux64/mafft.bat input.txt > output.txt	
-´´´	
+	
 * Are "uneversal" DNA primers really universal? (2014). Sharma & Kobayashi
 
 * Arhynchobdellida (Annelida: Oligochaeta: Hirudinida):phylogenetic relationships and evolution (2004). Siddall & Borda.
@@ -26,11 +26,10 @@ busque y este sofware pude correrse en la  linea de comandos:
 
 ![](./clustalX_CommandLine) 
 
-Sin ambargo tambien puedo hacerlo en Muscle con su version en linea de comando, utilizando un archivo con secuencias fasta (no mas de 50 y con menos de 500 pb) que se tenga la extención .fa:
+Sin embargo tambien puedo hacerlo en Muscle con su version en linea de comando, armando un archivo con secuencias fasta (no mas de 50 y con menos de 500 pb) que se tenga la extención .fa:
 
-´´´
+
  	$ muscle in ejemplo.fa -out seqs.afa
-´´´
 
 
 -Chequé el repositorio de un dude que ofrecía una paqueteria de R para análisis filogenéticos (phytools) espero me ayude a correr algunos analisis en R, ya que en los comentarios del Avance 1, se me suguirió incorporar los analisis a linea de comando o en R. 
