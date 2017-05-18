@@ -94,9 +94,13 @@ Contiene dos scripts, uno para correr en la terminal y el otro en R
 ```
 /data
 Contiene los datos que se usarán en el análisis
-	data/sec_fasta
+	
+	/data/sec_fasta
+	
 	Aquí estan las secuencias sin alinear
-	data/sec_alin
+	
+	/data/sec_alin
+	
 	Aquí se guardarán las secuencias alineadas
 	
 ```
