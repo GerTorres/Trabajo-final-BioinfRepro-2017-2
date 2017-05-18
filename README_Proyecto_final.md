@@ -19,9 +19,9 @@ Se deben tener los siguientes programas instalados. Las versiones que se utiliza
 
 ========================================================
 
-=========================
-Scripts
-=========================
+
+### Scripts
+
 
 *************************
 El script "script_commandLine.sh" en formato shell contiene las instrucciones para hacer el alineamiento (Muscle y Mafft) y la hipótesis filigenética (RaxML) para cada alineamiento.
@@ -77,9 +77,8 @@ El script "RMakeMeATree.R" contiene el codigo comentado que se usó para editar 
 
 **************************
 
-==========================
-Estructura del repositorio 
-==========================
+### Estructura del repositorio 
+
 
 Carpetas:
 
