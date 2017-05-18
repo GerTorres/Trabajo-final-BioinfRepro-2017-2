@@ -5,6 +5,7 @@ Esta carpeta contiene un script para correr un análisis filogenetico a partir d
 #### Para que todo corra correctamente SE DEBE DEFINIR el WD en carpeta bin, p. ej.:
 
 Línea de comando ``` $ cd /somewhere/proyecto_final_Bioinf2017-2_GTC/bin ```
+
 En R ``` $ setwd ("~/somewere/proyecto_final_Bioinf2017-2_GTC/bin")```
 
 =========================================================
